@@ -3,11 +3,11 @@
   <title>CoderDreamer&#39;s Blog</title>
   <icon>https://www.gravatar.com/avatar/8f1924b0110905090a4f8e860cea76df</icon>
   <subtitle>You become what you believe</subtitle>
-  <link href="https://yilong2018.github.io/atom.xml" rel="self"/>
+  <link href="https://36rocky.com/atom.xml" rel="self"/>
   
-  <link href="https://yilong2018.github.io/"/>
+  <link href="https://36rocky.com/"/>
   <updated>2021-01-15T08:15:53.218Z</updated>
-  <id>https://yilong2018.github.io/</id>
+  <id>https://36rocky.com/</id>
   
   <author>
     <name>Yilong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yilong2018.github.io/2021/01/15/hello-world/"/>
-    <id>https://yilong2018.github.io/2021/01/15/hello-world/</id>
+    <link href="https://36rocky.com/2021/01/15/hello-world/"/>
+    <id>https://36rocky.com/2021/01/15/hello-world/</id>
     <published>2021-01-15T08:15:53.218Z</published>
     <updated>2021-01-15T08:15:53.218Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>测试hexo功能1</title>
-    <link href="https://yilong2018.github.io/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/"/>
-    <id>https://yilong2018.github.io/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/</id>
+    <link href="https://36rocky.com/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/"/>
+    <id>https://36rocky.com/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/</id>
     <published>2021-01-15T05:29:52.000Z</published>
     <updated>2021-01-15T10:11:49.214Z</updated>
     
@@ -63,8 +63,8 @@
   
   <entry>
     <title>next主题开启公式支持踩坑记录</title>
-    <link href="https://yilong2018.github.io/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://yilong2018.github.io/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://36rocky.com/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://36rocky.com/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2021-01-14T05:15:37.000Z</published>
     <updated>2021-01-16T05:40:57.720Z</updated>
     
@@ -84,10 +84,10 @@
     
     
     
-    <category term="实战类" scheme="https://yilong2018.github.io/categories/%E5%AE%9E%E6%88%98%E7%B1%BB/"/>
+    <category term="实战类" scheme="https://36rocky.com/categories/%E5%AE%9E%E6%88%98%E7%B1%BB/"/>
     
     
-    <category term="next" scheme="https://yilong2018.github.io/tags/next/"/>
+    <category term="next" scheme="https://36rocky.com/tags/next/"/>
     
   </entry>
   
