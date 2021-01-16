@@ -14,7 +14,7 @@
 
 <link rel="stylesheet" href="/css/main.css">
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Serif SC:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+<link rel="stylesheet" href="https://fonts.loli.net/css?family=Noto Serif SC:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
 <link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
 
 <script id="hexo-configurations">
@@ -82,6 +82,7 @@
   </style>
 </noscript>
 
+<link rel="alternate" href="/atom.xml" title="CoderDreamer's Blog" type="application/atom+xml">
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
@@ -130,6 +131,11 @@
     <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
 
   </li>
+        <li class="menu-item menu-item-top">
+
+    <a href="/top/" rel="section"><i class="fa fa-signal fa-fw"></i>热榜</a>
+
+  </li>
         <li class="menu-item menu-item-tags">
 
     <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
@@ -143,11 +149,6 @@
         <li class="menu-item menu-item-archives">
 
     <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
-
-  </li>
-        <li class="menu-item menu-item-schedule">
-
-    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>日程表</a>
 
   </li>
         <li class="menu-item menu-item-sitemap">
@@ -250,13 +251,6 @@
               <span class="post-meta-item-text">阅读次数：</span>
               <span class="leancloud-visitors-count"></span>
             </span>
-            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">阅读次数：</span>
-              <span id="busuanzi_value_page_pv"></span>
-            </span>
   
   <span class="post-meta-item">
     
@@ -319,10 +313,10 @@
   <div class="popular-posts-header">推荐文章</div>
   <ul class="popular-posts">
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="/2021/01/15/测试hexo功能1/" rel="bookmark">测试hexo功能1</a></div>
+      <div class="popular-posts-title"><a href="/2021/01/14/我的第一篇文章/" rel="bookmark">next主题开启公式支持踩坑记录</a></div>
     </li>
     <li class="popular-posts-item">
-      <div class="popular-posts-title"><a href="/2021/01/14/我的第一篇文章/" rel="bookmark">next主题开启公式支持踩坑记录</a></div>
+      <div class="popular-posts-title"><a href="/2021/01/15/测试hexo功能1/" rel="bookmark">测试hexo功能1</a></div>
     </li>
   </ul>
 
@@ -453,6 +447,30 @@
     </ul>
   </div>
 
+    <div class="links-of-blogroll motion-element links-of-blogroll-undefined">
+      <div class="links-of-blogroll-title">
+        <!-- modify icon to fire by szw -->
+        <i class="fa fa-history fa-" aria-hidden="true"></i>
+        近期文章
+      </div>
+      <ul class="links-of-blogroll-list">
+        
+        
+          <li>
+            <a href="/2021/01/15/hello-world/" title="Hello World" target="_blank">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/" title="测试hexo功能1" target="_blank">测试hexo功能1</a>
+          </li>
+        
+          <li>
+            <a href="/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/" title="next主题开启公式支持踩坑记录" target="_blank">next主题开启公式支持踩坑记录</a>
+          </li>
+        
+      </ul>
+    </div>
+
       </div>
 
       
@@ -462,6 +480,8 @@
             <span class="site-state-item-name">标签</span>
           </a>
         </div>
+      
+
       
 
     </div>
@@ -498,8 +518,7 @@
     </span>
       <span class="post-meta-item-text">站点阅读时长 &asymp;</span>
     <span title="站点阅读时长">2 分钟</span>
-</div>
-<div>
+</div><div>
   <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
   <script>
     var now = new Date();
@@ -520,7 +539,7 @@
 </div>
 
 <div class="translate-style">
-繁/簡：<a id="translateLink" href="javascript:translatePage();">繁體
+繁/簡：<a id="translateLink" href="javascript:translatePage();">繁
 </a>
 </div>
 <script type="text/javascript" src="/js/tw_cn.js"></script>
@@ -528,32 +547,13 @@
 var defaultEncoding = 2; //網站編寫字體是否繁體，1-繁體，2-簡體
 var translateDelay = 0; //延遲時間,若不在前, 要設定延遲翻譯時間, 如100表示100ms,默認為0
 var cookieDomain = "https://tding.top/"; //Cookie地址, 一定要設定, 通常為你的網址
-var msgToTraditionalChinese = "繁體"; //此處可以更改為你想要顯示的文字
-var msgToSimplifiedChinese = "簡體"; //同上，但兩處均不建議更改
+var msgToTraditionalChinese = "繁"; //此處可以更改為你想要顯示的文字
+var msgToSimplifiedChinese = "簡"; //同上，但兩處均不建議更改
 var translateButtonId = "translateLink"; //默認互換id
 translateInitilization();
 </script>
+
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-user"></i>
-      </span>
-      <span class="site-uv" title="总访客量">
-        <span id="busuanzi_value_site_uv"></span>
-      </span>
-    </span>
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-eye"></i>
-      </span>
-      <span class="site-pv" title="总访问量">
-        <span id="busuanzi_value_site_pv"></span>
-      </span>
-    </span>
-</div>
 
 
 
@@ -664,7 +664,6 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
 });
 </script>
 
-
   <script async src="/js/cursor/love.min.js"></script>
 
 
@@ -678,10 +677,12 @@ NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
   </script>
 
 
+  <!-- 页面背景 -->
+  <script type="text/javascript" src="/js/src/particle.js"></script>
+
 
   <!-- 页面点击小红心 -->
   <!-- <script type="text/javascript" src="/js/src/love.js"></script> -->
-  <!-- 页面背景 -->
-  <script type="text/javascript" src="/js/src/particle.js"></script>
+
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 </html>
