@@ -43,9 +43,9 @@
     
     
     
-    <category term="hexo" scheme="https://36rocky.com/tags/hexo/"/>
-    
     <category term="next" scheme="https://36rocky.com/tags/next/"/>
+    
+    <category term="hexo" scheme="https://36rocky.com/tags/hexo/"/>
     
     <category term="github" scheme="https://36rocky.com/tags/github/"/>
     
