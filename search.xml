@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo+NexT建站指南</title>
+    <url>/2021/01/17/Hexo-Next%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<h1 id="环境准备">环境准备</h1>
+<p>在互联网安家，第一步就是要找到家放在什么地方，这是一个24小时可以给其他人展示的地方，体现主人的个性，知识，成长的地方，当然也是与造访的朋友交流的地方。通过这些步骤可以免费的搭建一个自己的静态网站，用于记录自己的生活，知识</p>
+<h2 id="github环境">github环境</h2>
+<h2 id="本地环境">本地环境</h2>
+<h2 id="编辑器">编辑器</h2>
+<h3 id="扩展阅读">扩展阅读</h3>
+<ul>
+<li>如何确保自己的原始数据不要丢失</li>
+</ul>
+<hr />
+<h1 id="基本安装">基本安装</h1>
+<h2 id="hexo部署">Hexo部署</h2>
+<h2 id="next主题安装">NexT主题安装</h2>
+<h3 id="扩展阅读-1">扩展阅读</h3>
+<ul>
+<li>本地网站保存后浏览器预览页面自动刷新</li>
+</ul>
+<hr />
+<h1 id="功能配置">功能配置</h1>
+<h2 id="关于我">关于我</h2>
+<h2 id="网站地图">网站地图</h2>
+<h2 id="友情链接">友情链接</h2>
+<h2 id="在线公式支持">在线公式支持</h2>
+<h2 id="留言板">留言板</h2>
+<h2 id="计数器">计数器</h2>
+<hr />
+<h1 id="美化配置">美化配置</h1>
+<h2 id="加载进度条">加载进度条</h2>
+<h2 id="鼠标点击样式">鼠标点击样式</h2>
+<h2 id="漫画看板">漫画看板</h2>
+<h2 id="打字样式">打字样式</h2>
+<h3 id="扩展阅读-2">扩展阅读</h3>
+<ul>
+<li>NexT配置文件详解</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>hexo,next,github,nodejs,npm,建站,静态网站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>next主题开启公式支持踩坑记录</title>
     <url>/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>参考文档：<a href="https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/MATH.md">next官方文件</a></p>
