@@ -6,7 +6,7 @@
   <link href="https://36rocky.com/atom.xml" rel="self"/>
   
   <link href="https://36rocky.com/"/>
-  <updated>2021-01-17T15:34:25.642Z</updated>
+  <updated>2021-01-17T15:38:17.731Z</updated>
   <id>https://36rocky.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://36rocky.com/2021/01/17/Hexo-Next%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/"/>
     <id>https://36rocky.com/2021/01/17/Hexo-Next%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</id>
     <published>2021-01-17T15:09:17.000Z</published>
-    <updated>2021-01-17T15:34:25.642Z</updated>
+    <updated>2021-01-17T15:38:17.731Z</updated>
     
     <content type="html"><![CDATA[<h1 id="环境准备">环境准备</h1><p>在互联网安家，第一步就是要找到家放在什么地方，这是一个24小时可以给其他人展示的地方，体现主人的个性，知识，成长的地方，当然也是与造访的朋友交流的地方。通过这些步骤可以免费的搭建一个自己的静态网站，用于记录自己的生活，知识</p><h2 id="github网站">github网站</h2><h2 id="本地环境">本地环境</h2><h3 id="github环境">github环境</h3><h3 id="nodejs环境">nodejs环境</h3><h2 id="编辑器">编辑器</h2><h3 id="扩展阅读">扩展阅读</h3><ul><li>写博客的正确姿势 - MarkDown语法</li><li>写出漂亮的博客 - Hexo官方语法</li><li>原始博文怎么才不丢？怎么在多台设备上写博客？</li></ul><a id="more"></a><hr /><h1 id="基本安装">基本安装</h1><h2 id="hexo部署">Hexo部署</h2><h2 id="next主题安装">NexT主题安装</h2><h3 id="扩展阅读-1">扩展阅读</h3><ul><li>本地网站保存后浏览器预览页面自动刷新</li></ul><hr /><h1 id="功能配置">功能配置</h1><h2 id="关于我">关于我</h2><h2 id="网站地图">网站地图</h2><h2 id="友情链接">友情链接</h2><h2 id="头像设置">头像设置</h2><h2 id="浏览进度">浏览进度</h2><h2 id="在线公式支持">在线公式支持</h2><h2 id="留言板">留言板</h2><h2 id="计数器">计数器</h2><hr /><h1 id="美化配置">美化配置</h1><h2 id="加载进度条">加载进度条</h2><h2 id="鼠标点击样式">鼠标点击样式</h2><h2 id="漫画看板">漫画看板</h2><h2 id="打字样式">打字样式</h2><h3 id="扩展阅读-2">扩展阅读</h3><ul><li>NexT配置文件详解</li></ul><hr /><h1 id="其他配置">其他配置</h1><h2 id="seo配置">SEO配置</h2><h2 id="域名配置">域名配置</h2><h2 id="加速访问">加速访问</h2><h3 id="网站压缩">网站压缩</h3><h3 id="域名转发">域名转发</h3>]]></content>
     
@@ -43,7 +43,19 @@
     
     
     
-    <category term="hexo next github nodejs npm 建站 静态网站" scheme="https://36rocky.com/tags/hexo-next-github-nodejs-npm-%E5%BB%BA%E7%AB%99-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
+    <category term="hexo" scheme="https://36rocky.com/tags/hexo/"/>
+    
+    <category term="next" scheme="https://36rocky.com/tags/next/"/>
+    
+    <category term="github" scheme="https://36rocky.com/tags/github/"/>
+    
+    <category term="nodejs" scheme="https://36rocky.com/tags/nodejs/"/>
+    
+    <category term="npm" scheme="https://36rocky.com/tags/npm/"/>
+    
+    <category term="建站" scheme="https://36rocky.com/tags/%E5%BB%BA%E7%AB%99/"/>
+    
+    <category term="静态网站" scheme="https://36rocky.com/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
