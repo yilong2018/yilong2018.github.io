@@ -4,6 +4,10 @@
     <title>next主题开启公式支持踩坑记录</title>
     <url>/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>参考文档：<a href="https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/MATH.md">next官方文件</a></p>
+<h1 id="h1大小">h1大小</h1>
+<h2 id="h2大小">h2大小</h2>
+<h3 id="h3大小">h3大小</h3>
+<hr />
 <h2 id="文档渲染说明">文档渲染说明</h2>
 <p>内容</p>
 <hr />
@@ -87,10 +91,7 @@ l &amp;= m - n \label{eq5}
 <p><code>&lt;blockquote class="blockquote-center"&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;</code></p>
 <hr />
 <h2 id="最近访客">最近访客</h2>
-<div id="ds-recent-visitors" class="ds-recent-visitors" data-num-items="39" data-avatar-size="40">
-
-</div>
-<p><code>&lt;div class="ds-recent-visitors" data-num-items="39" data-avatar-size="40" id="ds-recent-visitors"&gt;&lt;/div&gt;</code> 是的</p>
+<p>是的</p>
 ]]></content>
   </entry>
 </search>
