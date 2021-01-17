@@ -30,6 +30,8 @@
 <h2 id="关于我">关于我</h2>
 <h2 id="网站地图">网站地图</h2>
 <h2 id="友情链接">友情链接</h2>
+<h2 id="头像设置">头像设置</h2>
+<h2 id="浏览进度">浏览进度</h2>
 <h2 id="在线公式支持">在线公式支持</h2>
 <h2 id="留言板">留言板</h2>
 <h2 id="计数器">计数器</h2>
@@ -52,8 +54,41 @@
 <h3 id="域名转发">域名转发</h3>
 ]]></content>
       <tags>
-        <tag>hexo,next,github,nodejs,npm,建站,静态网站</tag>
+        <tag>hexo next github nodejs npm 建站 静态网站</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/15/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>测试hexo功能1</title>
+    <url>/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/</url>
+    <content><![CDATA[<h2 id="居中测试">居中测试</h2>
+<hr />
+<blockquote class="blockquote-center">
+优秀的人，不是不合群，而是他们合群的人里面没有你
+</blockquote>
+<p><code>&lt;blockquote class="blockquote-center"&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;</code></p>
+<hr />
+<h2 id="最近访客">最近访客</h2>
+<p>是的</p>
+]]></content>
   </entry>
   <entry>
     <title>next主题开启公式支持踩坑记录</title>
@@ -115,38 +150,5 @@ l &amp;= m - n \label{eq5}
       <tags>
         <tag>next</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2021/01/15/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="quick-start">Quick Start</h2>
-<h3 id="create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试hexo功能1</title>
-    <url>/2021/01/15/%E6%B5%8B%E8%AF%95hexo%E5%8A%9F%E8%83%BD1/</url>
-    <content><![CDATA[<h2 id="居中测试">居中测试</h2>
-<hr />
-<blockquote class="blockquote-center">
-优秀的人，不是不合群，而是他们合群的人里面没有你
-</blockquote>
-<p><code>&lt;blockquote class="blockquote-center"&gt;优秀的人，不是不合群，而是他们合群的人里面没有你&lt;/blockquote&gt;</code></p>
-<hr />
-<h2 id="最近访客">最近访客</h2>
-<p>是的</p>
-]]></content>
   </entry>
 </search>

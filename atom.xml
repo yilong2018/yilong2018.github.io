@@ -6,7 +6,7 @@
   <link href="https://36rocky.com/atom.xml" rel="self"/>
   
   <link href="https://36rocky.com/"/>
-  <updated>2021-01-17T15:29:38.251Z</updated>
+  <updated>2021-01-17T15:34:25.642Z</updated>
   <id>https://36rocky.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://36rocky.com/2021/01/17/Hexo-Next%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/"/>
     <id>https://36rocky.com/2021/01/17/Hexo-Next%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</id>
     <published>2021-01-17T15:09:17.000Z</published>
-    <updated>2021-01-17T15:29:38.251Z</updated>
+    <updated>2021-01-17T15:34:25.642Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="环境准备">环境准备</h1><p>在互联网安家，第一步就是要找到家放在什么地方，这是一个24小时可以给其他人展示的地方，体现主人的个性，知识，成长的地方，当然也是与造访的朋友交流的地方。通过这些步骤可以免费的搭建一个自己的静态网站，用于记录自己的生活，知识</p><h2 id="github网站">github网站</h2><h2 id="本地环境">本地环境</h2><h3 id="github环境">github环境</h3><h3 id="nodejs环境">nodejs环境</h3><h2 id="编辑器">编辑器</h2><h3 id="扩展阅读">扩展阅读</h3><ul><li>写博客的正确姿势 - MarkDown语法</li><li>写出漂亮的博客 - Hexo官方语法</li><li>原始博文怎么才不丢？怎么在多台设备上写博客？</li></ul><a id="more"></a><hr /><h1 id="基本安装">基本安装</h1><h2 id="hexo部署">Hexo部署</h2><h2 id="next主题安装">NexT主题安装</h2><h3 id="扩展阅读-1">扩展阅读</h3><ul><li>本地网站保存后浏览器预览页面自动刷新</li></ul><hr /><h1 id="功能配置">功能配置</h1><h2 id="关于我">关于我</h2><h2 id="网站地图">网站地图</h2><h2 id="友情链接">友情链接</h2><h2 id="在线公式支持">在线公式支持</h2><h2 id="留言板">留言板</h2><h2 id="计数器">计数器</h2><hr /><h1 id="美化配置">美化配置</h1><h2 id="加载进度条">加载进度条</h2><h2 id="鼠标点击样式">鼠标点击样式</h2><h2 id="漫画看板">漫画看板</h2><h2 id="打字样式">打字样式</h2><h3 id="扩展阅读-2">扩展阅读</h3><ul><li>NexT配置文件详解</li></ul><hr /><h1 id="其他配置">其他配置</h1><h2 id="seo配置">SEO配置</h2><h2 id="域名配置">域名配置</h2><h2 id="加速访问">加速访问</h2><h3 id="网站压缩">网站压缩</h3><h3 id="域名转发">域名转发</h3>]]></content>
+    <content type="html"><![CDATA[<h1 id="环境准备">环境准备</h1><p>在互联网安家，第一步就是要找到家放在什么地方，这是一个24小时可以给其他人展示的地方，体现主人的个性，知识，成长的地方，当然也是与造访的朋友交流的地方。通过这些步骤可以免费的搭建一个自己的静态网站，用于记录自己的生活，知识</p><h2 id="github网站">github网站</h2><h2 id="本地环境">本地环境</h2><h3 id="github环境">github环境</h3><h3 id="nodejs环境">nodejs环境</h3><h2 id="编辑器">编辑器</h2><h3 id="扩展阅读">扩展阅读</h3><ul><li>写博客的正确姿势 - MarkDown语法</li><li>写出漂亮的博客 - Hexo官方语法</li><li>原始博文怎么才不丢？怎么在多台设备上写博客？</li></ul><a id="more"></a><hr /><h1 id="基本安装">基本安装</h1><h2 id="hexo部署">Hexo部署</h2><h2 id="next主题安装">NexT主题安装</h2><h3 id="扩展阅读-1">扩展阅读</h3><ul><li>本地网站保存后浏览器预览页面自动刷新</li></ul><hr /><h1 id="功能配置">功能配置</h1><h2 id="关于我">关于我</h2><h2 id="网站地图">网站地图</h2><h2 id="友情链接">友情链接</h2><h2 id="头像设置">头像设置</h2><h2 id="浏览进度">浏览进度</h2><h2 id="在线公式支持">在线公式支持</h2><h2 id="留言板">留言板</h2><h2 id="计数器">计数器</h2><hr /><h1 id="美化配置">美化配置</h1><h2 id="加载进度条">加载进度条</h2><h2 id="鼠标点击样式">鼠标点击样式</h2><h2 id="漫画看板">漫画看板</h2><h2 id="打字样式">打字样式</h2><h3 id="扩展阅读-2">扩展阅读</h3><ul><li>NexT配置文件详解</li></ul><hr /><h1 id="其他配置">其他配置</h1><h2 id="seo配置">SEO配置</h2><h2 id="域名配置">域名配置</h2><h2 id="加速访问">加速访问</h2><h3 id="网站压缩">网站压缩</h3><h3 id="域名转发">域名转发</h3>]]></content>
     
     
     <summary type="html">&lt;h1 id=&quot;环境准备&quot;&gt;环境准备&lt;/h1&gt;
@@ -43,7 +43,7 @@
     
     
     
-    <category term="hexo,next,github,nodejs,npm,建站,静态网站" scheme="https://36rocky.com/tags/hexo-next-github-nodejs-npm-%E5%BB%BA%E7%AB%99-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
+    <category term="hexo next github nodejs npm 建站 静态网站" scheme="https://36rocky.com/tags/hexo-next-github-nodejs-npm-%E5%BB%BA%E7%AB%99-%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/"/>
     
   </entry>
   
@@ -97,7 +97,7 @@
     <link href="https://36rocky.com/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>https://36rocky.com/2021/01/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2021-01-14T05:15:37.000Z</published>
-    <updated>2021-01-17T07:56:53.985Z</updated>
+    <updated>2021-01-17T15:34:33.702Z</updated>
     
     <content type="html"><![CDATA[<p>参考文档：<a href="https://github.com/theme-next/hexo-theme-next/blob/master/docs/zh-CN/MATH.md">next官方文件</a></p><h1 id="h1大小">h1大小</h1><h2 id="h2大小">h2大小</h2><h3 id="h3大小">h3大小</h3><hr /><h2 id="文档渲染说明">文档渲染说明</h2><p>内容</p><hr /><h2 id="使用渲染工具pandoc">使用渲染工具pandoc</h2><p>内容</p><hr /><h2 id="其它渲染工具">其它渲染工具</h2><p>内容</p><hr /><a id="more"></a><h2 id="pandoc渲染实例">Pandoc渲染实例</h2><p>对于简单的公式，使用下面的方式给公式一个标记，</p><p><span class="math display">\[\begin{equation}\label{eq1}e=mc^2\end{equation}\]</span></p><p>然后，在正文中，你可以轻松引用上述公式，一个简单的例子如下：</p><p>著名的质能方程 <span class="math inline">\(\eqref{eq1}\)</span> 由爱因斯坦提出 ...</p><p>对于多行公式，在 equation 环境中，你可以使用 aligned 环境把公式分成多行，</p><p><span class="math display">\[\begin{equation}\label{eq2}\begin{aligned}a &amp;= b + c \\  &amp;= d + e + f + g \\  &amp;= h + i\end{aligned}\end{equation}\]</span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$$\begin&#123;equation&#125;\label&#123;eq2&#125;</span><br><span class="line">\begin&#123;aligned&#125;</span><br><span class="line">a &amp;= b + c \\</span><br><span class="line">  &amp;= d + e + f + g \\</span><br><span class="line">  &amp;= h + i</span><br><span class="line">\end&#123;aligned&#125;</span><br><span class="line">\end&#123;equation&#125;$$</span><br></pre></td></tr></table></figure><p>要对齐多个公式，我们需要使用 align 环境。align 环境中的每个公式都有自己的编号：</p><p><span class="math display">\[\begin{align}a &amp;= b + c \label{eq3} \\x &amp;= yz \label{eq4}\\l &amp;= m - n \label{eq5}\end{align}\]</span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$$\begin&#123;align&#125;</span><br><span class="line">a &amp;= b + c \label&#123;eq3&#125; \\</span><br><span class="line">x &amp;= yz \label&#123;eq4&#125;\\</span><br><span class="line">l &amp;= m - n \label&#123;eq5&#125;</span><br><span class="line">\end&#123;align&#125;$$</span><br></pre></td></tr></table></figure><p>在 align 环境中，如果你不想给某个或某几个公式编号，那么在这些公式后面使用 命令即可。例如：</p><p><span class="math display">\[\begin{align}-4 + 5x &amp;= 2+y \nonumber  \\ w+2 &amp;= -1+w \\ ab &amp;= cb\end{align}\]</span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$$\begin&#123;align&#125;</span><br><span class="line">-4 + 5x &amp;= 2+y \nonumber  \\</span><br><span class="line"> w+2 &amp;= -1+w \\</span><br><span class="line"> ab &amp;= cb</span><br><span class="line">\end&#123;align&#125;$$</span><br></pre></td></tr></table></figure><p>有时，你可能会希望采用更加奇特的方式来标记和引用你的公式，你可以通过使用<code>\tag&#123;&#125;</code> 命令来实现，例如：</p><p><span class="math display">\[x+1\over\sqrt{1-x^2} \tag{i}\label{eq_tag}\]</span></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$<span class="variable">$x</span>+1\over\sqrt&#123;1-x^2&#125; \tag&#123;i&#125;\label&#123;eq_tag&#125;$$</span><br></pre></td></tr></table></figure><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
     
